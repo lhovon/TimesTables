@@ -6,4 +6,4 @@ Cool paramater settings:
 
 
 1. 140; 70.5
-2. 
+2. 498; 100
