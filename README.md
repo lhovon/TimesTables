@@ -1,9 +1,10 @@
-#Times Tables
+# Times Tables
+## Watch order emerge from chaos
 
-See https://www.youtube.com/watch?v=qhbuKbxJsk8
+![example](/assets/pics/example.png)
 
-Cool paramater settings:
+Just open `index.html` in your browser and play around with the sliders.
 
+Inspiration: https://www.youtube.com/watch?v=qhbuKbxJsk8
 
-1. 140; 70.5
-2. 498; 100
+![example](/assets/pics/example2.png)
